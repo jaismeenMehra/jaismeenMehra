@@ -1,6 +1,6 @@
 [![MasterHead]https://https://)]
 <h1 align="center">Hi 👋, I'm Jaismeen</h1>
-<h3 align="center">A passionate full stack web-developer from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 <img aling="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaismeenmehra&label=Profile%20views&color=0e75b6&style=flat" alt="jaismeenmehra" /> </p>
